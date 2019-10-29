@@ -1,0 +1,18 @@
+.hidden {
+  display: none;
+}
+
+.error {
+  color: red;
+}
+
+.results-list {
+  list-style-type: none;
+}
+
+.instructions {
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 0px;
+}
+
